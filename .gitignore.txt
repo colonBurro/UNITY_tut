@@ -1,0 +1,52 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+
+# ==============================#
+# Assets folderi Sound/Textures #
+# ==============================#
+Assets/Sound/*.aiff
+Assets/Sound/*.aif
+Assets/Sound/*.mp3
+Assets/Sound/*.wav
+Assets/Sound/
+Assets/Textures/*.png
+Assets/Textures/*.psd
+Assets/Textures/
+
+# ==============================#
+# Spriter/ThirdParty #
+# ==============================#
+Assets/Spriter/*
+Assets/Spriter.meta
+Assets/ThirdParty/Spriter2Unity/Example/*
+Assets/ThirdParty/Spriter2Unity/Example.meta
+
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
